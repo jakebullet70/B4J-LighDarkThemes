@@ -5,5 +5,6 @@ src/
 docs/
 Objects/
 AutoBackups/
+.vscode/
 *.dex
 *b4j.meta
