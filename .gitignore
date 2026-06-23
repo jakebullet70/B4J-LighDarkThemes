@@ -1,0 +1,9 @@
+#B4j
+bin/
+gen/
+src/
+docs/
+Objects/
+AutoBackups/
+*.dex
+*b4j.meta
